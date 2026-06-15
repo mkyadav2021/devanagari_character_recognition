@@ -1,0 +1,1 @@
+ A CNN using PyTorch to recognize handwritten Devnagari characters. For training, I have used Devanagari Handwritten Character Dataset.
